@@ -1,3 +1,3 @@
-# Eona-X Umbrella Repository
+# Eona-X Repository
 
-Welcome to Eona-X umbrella repository.
+Welcome to Eona-X repository.
